@@ -1,3 +1,5 @@
+April 24th, 2023 (First Trial)
+
 - 👋 Hi, I’m @David-Feng03
 - 👀 I’m interested in understading the concepts behing Computer Science and its impact towards today's era of techonological advance.
 - 🌱 I’m currently learning the fundamentals of CS50.
